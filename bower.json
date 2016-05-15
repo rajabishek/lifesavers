@@ -1,0 +1,14 @@
+{
+  "name": "lifesavers",
+  "version": "0.0.1",
+  "authors": [
+    "Raj Abishek <rajabishek@hotmail.com>"
+  ],
+  "description": "Online dashboard for blood banks",
+  "license": "MIT",
+  "homepage": "http://lifesavers.herokuapp.com",
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.2.0"
+  }
+}
